@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pylolesports"
+version = "0.1.0"
+dependencies = []
+requires-python = ">=3.13"
+authors = [
+  {name = "Matheus Wessen"},
+]
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://github.com/auesw/pylolesports"

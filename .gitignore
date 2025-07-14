@@ -1,0 +1,6 @@
+__pycache__/
+.venv
+cache
+planning.md
+api/key.py
+teste.py

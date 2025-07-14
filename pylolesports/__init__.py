@@ -1,0 +1,1 @@
+from .pylolesports import LolEsportsApi
